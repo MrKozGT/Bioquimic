@@ -1,9 +1,14 @@
 /*Edicióm de Texto 1 */
 .video{
-	padding-left:37%;
+	padding-left:15%;
 	padding-top:30px;
 }
-
+.fondo{
+  background-color:maroon;
+}
+.texto{
+  color:white;
+}
 .dna {
   width: 10em;
   margin: 0 auto;
