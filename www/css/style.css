@@ -1,13 +1,23 @@
 /*Edicióm de Texto 1 */
 .video{
-	padding-left:15%;
+	padding-left:12%;
 	padding-top:30px;
 }
 .fondo{
-  background-color:maroon;
+  background-color:white;
 }
 .texto{
-  color:white;
+  color:#146C9C;
+  text-align:justify;
+  border:2px dashed purple;
+}
+.texto1{
+  color:black;
+  text-align:center;
+  border-top:black 2px;
+  border-left:black 2px;
+  border-right:black 2px;
+  border-bottom:black 2px;
 }
 .dna {
   width: 10em;
